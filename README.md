@@ -1,5 +1,11 @@
-### Hi there 👋
+### Olá 👋, meu nome é Luis Mineo!
 
+Sou estudante de ciência da computação e apaixonado por tecnologia!
+
+- 🌱 Atualmente apredendo JAVA (por força maior 😅)
+- 👯 Procurando um estágio
+- 😄 Quero aprender mais sobre desenvolvimento de jogos!
+- 📫 Como me contatar: luisafonsomineo@gmail.com
 <!--
 **luismineo/luismineo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
